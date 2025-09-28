@@ -1,12 +1,17 @@
 # Convolutional Deep Neural Network for Image Classification
 
 ## AIM
-
-To Develop a convolutional deep neural network for image classification and to verify the response for new images.
+To design, implement, and evaluate a Convolutional Neural Network (CNN) model for classifying images from the Fashion-MNIST dataset into their respective categories, thereby demonstrating the effectiveness of deep learning techniques in image recognition tasks.
 
 ## Problem Statement and Dataset
 
-Include the Problem Statement and Dataset.
+For this project, the dataset used is the Fashion MNIST dataset, which contains:
+Training set: 60,000 grayscale images of size 28×28 pixels.
+Test set: 10,000 grayscale images of size 28×28 pixels.
+Number of classes: 10
+Class labels:
+T-shirt/top
+Source: The dataset is publicly available through the Keras library and is commonly used for image classification tasks in deep learning.
 
 ## Neural Network Model
 
